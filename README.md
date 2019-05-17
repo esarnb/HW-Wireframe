@@ -1,5 +1,7 @@
 # HW-Wireframe
 
+![Image of the wireframe display](images/wireframe.png)
+
 HW-Wireframe is a basic frame for making a sectioned website, with a header space, nav, footer, and split content in the middle. 
 
 ## Getting Started
